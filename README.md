@@ -49,7 +49,8 @@ To better understand emotion in tweet, a model needs to be constructed to extrac
 * Distribution of the difference between the number of words in original tweet and the extracted text for each sentiment.
 <img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/wordcount_diff_distribution.png' width=300px>
 
-
+* Distribution of Jaccard similarity score between the original text and selected text for each tweet.
+<img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Jaccard_similarity_text_selected_text.png' width=800px>
 
 
 

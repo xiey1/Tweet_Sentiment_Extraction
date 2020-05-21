@@ -29,6 +29,16 @@ To better understand emotion in tweet, a model needs to be constructed to extrac
 <br>Build question answering (QA) model using BERT for tweet sentiment extraction. A single QA model is trained for all three different sentiments.
 
 ## Part I: Exploratory data analysis
+### Short overview of the dataset:
+<br>Number of documents in training dataset: 27481
+<br>Number of documents in testing dataset: 3534
+
+<br>After removing documents with NA in `text` and `selected_text` field:
+<br>Number of documents in training dataset: 27480
+<br>Number of documents in testing dataset: 3534
+
+* Distribution of the number of tweets for each sentiment.
+
 
 
 

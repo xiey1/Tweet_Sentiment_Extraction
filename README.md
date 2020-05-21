@@ -62,17 +62,17 @@ To better understand emotion in tweet, a model needs to be constructed to extrac
 <img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Keywords_wordcloud.png' width=800px>
 
 ## Part II: Named Entity Recognition (NER) -- spaCy
-* Jaccard similarity score between predicted text and selected text
+* Jaccard similarity score between predicted text and selected text.
 <br><img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Jaccard_similarity_NER_spaCy.png' width=800px>
 
 ## Part III: Named Entity Recognition (NER) -- BERT
-* Jaccard similarity score between predicted text and selected text
+* Jaccard similarity score between predicted text and selected text.
 <br><img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Jaccard_similarity_NER_BERT.png' width=800px>
 
 ## Part IV: Named Entity Recognition (NER) -- BERT (3 models)
-* Jaccard similarity score between predicted text and selected text
+* Jaccard similarity score between predicted text and selected text.
 <br><img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Jaccard_similarity_NER_BERT_3models.png' width=800px>
 
 ## Part V: Question Answering (QA) -- BERT
-* Jaccard similarity score between predicted text and selected text
+* Jaccard similarity score between predicted text and selected text.
 <br><img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Jaccard_similarity_QA_BERT.png' width=800px>

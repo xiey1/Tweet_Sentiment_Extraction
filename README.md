@@ -38,6 +38,17 @@ To better understand emotion in tweet, a model needs to be constructed to extrac
 <br>Number of documents in testing dataset: 3534
 
 * Distribution of the number of tweets for each sentiment.
+<img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Sentiment_distribution.png' width=600px>
+
+* Distribution of the number of words in tweets for each sentiment.
+<img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/wordcount_distribution_text.png' width=600px>
+
+* Distribution of the number of words in extracted text in tweets for each sentiment.
+<img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/wordcount_distribution_selected_text.png' width=600px>
+
+* Distribution of the difference between the number of words in original tweet and the extracted text for each sentiment.
+<img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/wordcount_diff_distribution.png' width=600px>
+
 
 
 

@@ -52,5 +52,11 @@ To better understand emotion in tweet, a model needs to be constructed to extrac
 * Distribution of Jaccard similarity score between the original text and selected text for each tweet.
 <img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Jaccard_similarity_text_selected_text.png' width=800px>
 
+* Keywords for each sentiment.
+<img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Keywords_text.png' width=800px>
 
+* Unique Keywords for each sentiment.
+<img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Keywords_unique_text.png' width=800px>
 
+* Visualize frequent words in each sentiment using WordCloud.
+<img src= 'https://github.com/xiey1/Tweet_Sentiment_Extraction/blob/master/images/Keywords_wordcloud.png' width=800px>
